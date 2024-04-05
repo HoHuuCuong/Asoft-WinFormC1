@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asoft\\WinformC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|D:\\Asoft\\WinformC1\\winformc1\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|solutionrelative:winformc1\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|D:\\Asoft\\WinformC1\\winformc1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|solutionrelative:winformc1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|D:\\Asoft\\WinformC1\\winformc1\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|solutionrelative:winformc1\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|d:\\asoft\\winformc1\\winformc1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6BE9FBF-D4C1-4940-9474-1AC4F6D14AC9}|WinformC1\\WinformC1.csproj|solutionrelative:winformc1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\Asoft\\WinformC1\\WinformC1\\Action.cs",
+              "RelativeDocumentMoniker": "WinformC1\\Action.cs",
+              "ToolTip": "D:\\Asoft\\WinformC1\\WinformC1\\Action.cs",
+              "RelativeToolTip": "WinformC1\\Action.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T01:47:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Action.cs [Design]",
+              "DocumentMoniker": "D:\\Asoft\\WinformC1\\WinformC1\\Action.cs",
+              "RelativeDocumentMoniker": "WinformC1\\Action.cs",
+              "ToolTip": "D:\\Asoft\\WinformC1\\WinformC1\\Action.cs [Design]",
+              "RelativeToolTip": "WinformC1\\Action.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:03:33.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Asoft\\WinformC1\\WinformC1\\Main.cs",
+              "RelativeDocumentMoniker": "WinformC1\\Main.cs",
+              "ToolTip": "D:\\Asoft\\WinformC1\\WinformC1\\Main.cs",
+              "RelativeToolTip": "WinformC1\\Main.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:20:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Asoft\\WinformC1\\WinformC1\\Main.cs",
+              "RelativeDocumentMoniker": "WinformC1\\Main.cs",
+              "ToolTip": "D:\\Asoft\\WinformC1\\WinformC1\\Main.cs [Design]",
+              "RelativeToolTip": "WinformC1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:46:09.361Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
